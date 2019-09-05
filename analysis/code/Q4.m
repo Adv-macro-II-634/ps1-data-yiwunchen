@@ -1,4 +1,4 @@
-%% Question 4
+%% Question 4 (By using "Octave" software)
 %% Constructing the transition matrix for earning
 
 clear ; close all; clc
